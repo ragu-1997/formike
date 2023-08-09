@@ -1,0 +1,37 @@
+
+
+I am interested in becoming a CNCF Ambassador because
+
+Hi team,
+
+Cureently am AWS communit builder in container category and microsoft Azure student ambasdiodor.
+Am working as devops engineer and cloud native application deployment in this vent ver helpfull to contribut emore my community and give more ethisiasim. 
+
+What are your goals as an ambassador?
+
+I need to mention my planning if become cncf ambasidor.
+
+1) Indian south region no on can awerenrs aboubt CNCF community so i cre te the comminity to buil on stron base for 
+2) I lan to build one cncf community with my region 
+3)If you help to me i try to conduct the evnts bassed on collage students
+4)kubernetes not focing the colloge student and mid level start comapany i will cobve the patrt 
+
+1) Try to colloborate more opensourse community and conduct more event bassed on events
+2)
+
+
+What ambassador program requirements do you currently participate in? (Select all that apply)
+
+
+
+What is your area of expertise in cloud native (technical or non-technical)?
+
+Am working as software realbliy an devops side so most of technolog bassed kubernets and cncf .Part am doing some reaserch also basssed on Microservice orchestartion 
+1)k8,promothus,metric,istion,docier d,
+
+Describe a positive experience you had in the cloud native community and how this experience impacted you wanting to become an ambassador?
+
+Prviously i attent soem kube confreera and kube config its awsome evnt that i have some i wnat jin your community beacise you are weel organized technical communiyty so i want join explore my self
+
+
+Describe a negative experience you had in the cloud native community. If you were an ambassador, what solution do you think could have been applied to help change that experience?
